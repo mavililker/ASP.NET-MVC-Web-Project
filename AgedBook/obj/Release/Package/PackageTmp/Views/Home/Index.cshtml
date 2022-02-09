@@ -1,0 +1,179 @@
+﻿@model IEnumerable<AgedBook.Models.Category>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<body>
+    <style>
+        .dropdown-menu-center {
+            left: 50% !important;
+            right: auto !important;
+            text-align: center !important;
+            transform: translate(-50%, 0) !important;
+        }
+
+        .color {
+            background-color: white;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 20px;
+        }
+
+        .renk:focus {
+            text-decoration: none;
+            outline: none;
+        }
+
+        .renk {
+            color: white;
+        }
+
+
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        .konum {
+            position: center;
+        }
+
+        a:focus {
+            text-decoration: none;
+            color: dodgerblue;
+            outline: none;
+        }
+
+        a:current {
+            text-decoration: none;
+            color: dodgerblue;
+        }
+
+        a:active {
+            color: dodgerblue;
+            outline: none;
+        }
+
+
+        .renk:hover {
+            text-decoration: none;
+            color: dodgerblue;
+        }
+
+        .yazi {
+            border: 1px solid white;
+            color: white;
+            background-color: black;
+            opacity: 0.7;
+            padding-top: 50px;
+            padding-right: 30px;
+            padding-bottom: 50px;
+            padding-left: 80px;
+        }
+
+        .button {
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+    </style>
+</body>
+
+
+
+<h2 style="color:white; font-family:verdana; font-size:50px; text-align:center;">Welcome to AgedBook 📕✍📖 </h2>
+<hr />
+<br />
+<p class="yazi">
+
+    The purpose of this site is to provide forwarding the books that people read or do not need to the next generations for free. It is a book donation platform that offers accessing to the books for free which have different categories. It is an advantage for people who is in a bad financal situation or who wants to access various books. In this way people can find books that they need and take advantage of from them for free.
+    It will be a platform that will increase the knowledge sharing between people. Every person can reach the books on ads that near to them as location. People from all ages can use this platform. It is very important especially for the student communities. In our country, this site has got a huge significance for who needs the books which are being used for the exams in universities or high-schools. They can reach the book ads every moment.
+    It was designed for the transferring information and solidarity between people.
+    This site aims to keep alive reading real books instead of the digital ones.
+</p>
+
+<div id="navigation" class="navigationShow col-xs-11 col-sm-11 noPadding text-center">
+
+
+    <div id="ctl00_ctl00_cphMain_treeview" class="bg-Light">
+        <div class="RadAjaxPanel" id="ctl00_ctl00_cphMain_ctl00_ctl00_cphMain_rapTreeViewPanel" style="display: block;">
+            <div id="ctl00_ctl00_cphMain_rapTreeView" class="normal">
+
+                <div id="" class="RadTreeView RadTreeView_MetroTouch normal" text="" navigateurl="" value="">
+                    <ul class="rtUL rtLines">
+
+                        @foreach (var item in Model)
+                        {
+
+                            <li class="button" style="list-style-type: none;">
+                                <div class="rtTop">
+
+                                    <div class="border">
+                                        <button type="button" class="btn btn-danger" value="submit" onclick="window.location.href='/Publishes/Category/@Html.DisplayFor(modelItem => item.CategoryID)';" > <span class="rtSp"></span><span class="rtPlus"></span><img src="" alt="" class="rtImg"><a class="rtIn" href="~/Publishes/Category/@Html.DisplayFor(modelItem => item.CategoryID)" target="_self"><b class="renk" tabindex="0">➤ @Html.DisplayFor(modelItem => item.CategoryName)</b></a></button>
+                                    </div>
+                                </div>
+                            </li>
+                        }
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@if (User.Identity.IsAuthenticated)
+{
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+
+
+}
+else
+{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <p class="text-white-50 bg-info" style="font-weight:bold;  color:white; font-family:Verdana;">&#10148; Login to see more... </p>
+
+}

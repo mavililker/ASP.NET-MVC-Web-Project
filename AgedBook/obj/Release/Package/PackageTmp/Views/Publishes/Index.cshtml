@@ -1,0 +1,73 @@
+﻿@model IEnumerable<AgedBook.Models.Publish>
+
+@{
+    ViewBag.Title = "My Published Books";
+}
+<body>
+    <style>
+        body {
+            color: white;
+        }
+    </style>
+</body>
+<h2>My Published Books</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActivePublish)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City.CityName)
+            </th>
+
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            if (User.Identity.Name == item.User.EmailID)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ItemName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ImageUrl)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ActivePublish)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.City.CityName)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.PublishID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.PublishID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.PublishID })
+                    </td>
+                </tr>
+
+            }
+        }
+
+    </table>
+</h4>

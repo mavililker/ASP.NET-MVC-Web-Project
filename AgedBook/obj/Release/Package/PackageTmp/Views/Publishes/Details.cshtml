@@ -1,0 +1,85 @@
+﻿@model AgedBook.Models.Publish
+
+@{
+    ViewBag.Title = "Details";
+}
+<body>
+    <style>
+        body {
+            color: white;
+        }
+    </style>
+</body>
+<h2>Details</h2>
+
+<div>
+    <h4>
+        Publish
+        <hr />
+        <dl class="dl-horizontal">
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ItemName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ItemName)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ActivePublish)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ActivePublish)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ImageUrl)
+            </dt>
+
+            <dd>
+                <a href="@Html.DisplayFor(model => model.ImageUrl)">Link</a>
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.City.CityName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.City.CityName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.User.EmailID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.User.EmailID)
+            </dd>
+
+        </dl>
+    </h4>
+</div>
+
+<p>
+
+    @Html.ActionLink("Back to List", "Index")
+</p>

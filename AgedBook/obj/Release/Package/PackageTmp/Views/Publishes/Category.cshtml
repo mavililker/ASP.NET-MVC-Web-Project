@@ -1,0 +1,61 @@
+﻿@model IEnumerable<AgedBook.Models.Publish>
+
+@{
+    ViewBag.Title = "Category";
+}
+
+<table class="table">
+    <tr style="color:orangered;">
+        <th>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImageUrl)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City.CityName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ActivePublish)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.EmailID)
+        </th>
+
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr style="font-weight:bold; color:white;">
+
+    <td>
+        @Html.DisplayFor(modelItem => item.ItemName)
+    </td>
+    <td>
+        <a href="@Html.DisplayFor(modelItem => item.ImageUrl)">Link</a>
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.City.CityName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ActivePublish)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.User.EmailID)
+    </td>
+
+    <td>
+        @Html.ActionLink("Details", "Details", new { id = item.PublishID })
+    </td>
+</tr>
+    }
+
+</table>

@@ -1,0 +1,176 @@
+﻿@model IEnumerable<AgedBook.Models.Category>
+@{
+    ViewBag.Title = "Home";
+}
+
+
+<body>
+    <style>
+        .dropdown-menu-center {
+            left: 50% !important;
+            right: auto !important;
+            text-align: center !important;
+            transform: translate(-50%, 0) !important;
+        }
+
+        .color {
+            background-color: white;
+        }
+
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 20px;
+        }
+
+        .renk:focus {
+            text-decoration: none;
+            color: red;
+            outline: none;
+        }
+
+        .renk {
+            color: white;
+        }
+
+
+
+        a:hover {
+            text-decoration: none;
+        }
+
+
+        a:focus {
+            text-decoration: none;
+            color: red;
+            outline: none;
+        }
+
+        a:current {
+            text-decoration: none;
+            color: red;
+        }
+
+        a:active {
+            color: red;
+            outline: none;
+        }
+
+
+        .renk:hover {
+            text-decoration: none;
+            color: red;
+        }
+    </style>
+</body>
+
+
+
+<h2 style="color:white; font-family:verdana; font-size:50px; text-align:center;">Welcome to AgedBook 📕✍📖 </h2>
+<hr />
+<div class="kutu">
+
+    <div id="navigation" class="navigationShow col-xs-4 col-sm-2 noPadding">
+
+
+        <div id="ctl00_ctl00_cphMain_treeview" class="bg-Light">
+            <div class="RadAjaxPanel" id="ctl00_ctl00_cphMain_ctl00_ctl00_cphMain_rapTreeViewPanel" style="display: block;">
+                <div id="ctl00_ctl00_cphMain_rapTreeView" class="normal">
+
+                    <div id="" class="RadTreeView RadTreeView_MetroTouch normal" text="" navigateurl="" value="">
+                        <ul class="rtUL rtLines">
+
+                            @foreach (var item in Model)
+                            {
+
+                                <li class="rtLI rtFirst" style="list-style-type: none;">
+                                    <div class="rtTop ">
+                                        <span class="rtSp"></span><span class="rtPlus"></span><img src="" alt="" class="rtImg"><a class="rtIn" href="~/Publishes/Category/@Html.DisplayFor(modelItem => item.CategoryID)" target="_self"><b class="renk" tabindex="0">@Html.DisplayFor(modelItem => item.CategoryName)<br /></b></a>
+
+                                    </div>
+                                </li>
+                            }
+                        </ul><input id="rtvADU_ClientState" name="rtvADU_ClientState" type="hidden" autocomplete="off" value="{&quot;expandedNodes&quot;:[],&quot;collapsedNodes&quot;:[],&quot;logEntries&quot;:[],&quot;selectedNodes&quot;:[],&quot;checkedNodes&quot;:[],&quot;scrollPosition&quot;:0}">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@if (User.Identity.IsAuthenticated)
+{
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+
+}
+else
+{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <p class="text-white-50 bg-info" style="font-weight:bold;  color:white; font-family:Verdana;">&#10148; Login to see more... </p>
+
+}

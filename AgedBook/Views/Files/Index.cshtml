@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+    <center>
+   <h2 style="color:white; font-weight:bold; ">Upload</h2>
+        @using (Html.BeginForm("Index", "Files", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div>   
+                @Html.TextBox("file", "", new { type = "file" });
+                <input type="submit" value="Save Files" />
+
+                @ViewBag.Message
+            </div>
+        }
+    </center>
+
+
+
+
+

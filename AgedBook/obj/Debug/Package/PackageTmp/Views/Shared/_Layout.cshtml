@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - AgedBook</title>
+    <link rel="icon" href="~/img/books.png" type="image/png">
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <style>
+        body {
+            background-image: url('/img/ecopetit.cat-library-wallpaper-168437.png');
+            background-size: cover;
+   
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+        }
+    </style>
+</head>  
+
+<body>
+
+    
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                @Html.ActionLink("📚 AgedBook", "Index", "Home", new { area = "" }, new { @class = "navbar-brand"})
+                
+                
+
+            </div>
+            <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse font-weight-bold">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    using (Html.BeginForm("Logout", "User", FormMethod.Post, new { id = "logoutForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="javascript:document.getElementById('logoutForm').submit()">Logout</a><li>
+                    </ul>
+                    }
+
+                    @Html.ActionLink(@HttpContext.Current.User.Identity.Name, "Index", "Home", new { area = "" }, new { @class = "navbar-brand  navbar-right" })
+                    }
+                    else
+                    {
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="nav-item ">
+                            @Html.ActionLink("Register", "Registration", "User", new { area = "" }, new { @class = "navbar-brand" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Login", "Login", "User", new { area = "" }, new { @class = "navbar-brand" })
+                        </li>
+
+
+                    </ul>
+                    }
+
+</div>
+        </div>
+    </div>
+
+    <div class="container body-content  ">
+        @RenderBody()
+        <hr />
+        <footer>
+            <h4 style="color:white;"> @DateTime.Now.Day.@DateTime.Now.Month.@DateTime.Now.Year - Powered By AgedBook&copy; Ltd.</h4>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @RenderSection("Scripts", false)
+</body>
+</html>

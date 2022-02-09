@@ -1,0 +1,1309 @@
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\ilker\source\repos\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\ilker\source\repos\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\ilker\source\repos\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\source\repos\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\RegistrationAndLoginP3\asda\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Downloads\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\ilker\Downloads\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Downloads\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\ilker\Downloads\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Desktop\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\AgedBook (2)\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\ilker\Downloads\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\ApplicationInsights.config
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\csc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\vbc.exe
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.dll.config
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\AgedBook.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Buffers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Memory.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Buffers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Memory.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+C:\Users\nasuh\OneDrive\Masaüstü\FINALFINAL\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\ApplicationInsights.config
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\csc.exe
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\System.Collections.Immutable.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\System.Reflection.Metadata.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\vbc.exe
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\roslyn\VBCSCompiler.exe.config
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\AgedBook.dll.config
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\AgedBook.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\AgedBook.pdb
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Aspose.Diagram.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\EntityFramework.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\EntityFramework.SqlServer.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.Agent.Intercept.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.Web.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Identity.Client.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Web.Infrastructure.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Buffers.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Collections.Immutable.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.ComponentModel.Annotations.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Data.SqlClient.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Memory.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Numerics.Vectors.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Helpers.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Mvc.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Razor.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Aspose.Diagram.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\EntityFramework.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\EntityFramework.SqlServer.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.DependencyCollector.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.Web.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.AI.WindowsServer.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.ApplicationInsights.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Bcl.HashCode.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Data.SqlClient.pdb
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Options.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Extensions.Primitives.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\Microsoft.Identity.Client.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Buffers.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Collections.Immutable.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Data.SqlClient.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Diagnostics.DiagnosticSource.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Memory.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Numerics.Vectors.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Threading.Tasks.Extensions.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Razor.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.Deployment.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Webpages.Razor.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Helpers.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\System.Web.Mvc.xml
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\obj\Debug\AgedBook.csprojAssemblyReference.cache
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CoreCompileInputs.cache
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\obj\Debug\AgedBook.csproj.CopyComplete
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\obj\Debug\AgedBook.dll
+D:\İndirilenler\Yeni klasör\AgedBook\AgedBook\obj\Debug\AgedBook.pdb
